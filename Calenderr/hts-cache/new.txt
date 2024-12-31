@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:51:21	1340/1340	---MCZ	404	error ('Not%20Found')	text/html	etag:1735133965-ssl-df	https://unitrix.netlify.app/robots.txt		(from )
+11:51:21	464/464	---M--	200	added ('OK')	text/html	etag:%22660166da38da7d156413f156f0739ece-ssl%22	https://unitrix.netlify.app/	E:/Calenderr/unitrix.netlify.app/index.html	(from )
+11:51:21	3449/3449	---M-Z	404	error ('Not%20Found')	text/html	etag:1735133965-ssl-df	https://unitrix.netlify.app/vite.svg	E:/Calenderr/unitrix.netlify.app/vite.0.delayed	(from https://unitrix.netlify.app/)
+11:51:22	211345/211345	---MCZ	200	added ('OK')	application/javascript	etag:%22b712f8385f9d79b917489b5f6802fd62-ssl-df%22	https://unitrix.netlify.app/assets/index-Crr4F8C5.js	E:/Calenderr/unitrix.netlify.app/assets/index-Crr4F8C5.js	(from https://unitrix.netlify.app/)
+11:51:22	14584/14584	---MCZ	200	added ('OK')	text/css	etag:%220da17f783dfcb2cca12b88cbb2fff881-ssl-df%22	https://unitrix.netlify.app/assets/index-BVgyIFzp.css	E:/Calenderr/unitrix.netlify.app/assets/index-BVgyIFzp.css	(from https://unitrix.netlify.app/)
